@@ -51,3 +51,8 @@ The State University of New York, Queens, NY
 - Windows Environment
 - Customer Service
 - Technical Support
+
+## Certifications
+ 
+- 2016, CompTIA A+
+- 2019, MS Server
