@@ -1,9 +1,10 @@
 # Yahor Matsukov
 
 ## IT Specialist
-[+375 (29) 324-91-90](tel:+375293249190)
-[eeggoor@gmail.com](mailto:eeggoor@gmail.com)
-[linkedin.com/in/yahormatsukov](https://linkedin.com/in/yahormatsukov)
+
+[+375 (29) 324-91-90](tel:+375293249190)  
+[eeggoor@gmail.com](mailto:eeggoor@gmail.com)  
+[linkedin.com/in/yahormatsukov](https://linkedin.com/in/yahormatsukov)  
 [github.com/eeggoor](https://github.com/eeggoor)
  
 ## Professional Summary
@@ -12,34 +13,34 @@ Dependable and goal-oriented IT Specialist with 5+ years of experience maintaini
  
 ## Work History
  
-**Senior IT Specialist**
-XYZ Global, Manhattan, NY
-Jan 2018–Present
+**Senior IT Specialist**  
+XYZ Global, Manhattan, NY  
+Jan 2018–Present  
 - Maintained 250+ Windows computers and peripherals, including all configuring and monitoring. Worked with vendors to cut equipment costs by 20%.
 - Installed 200+ desktop computers during a company-wide upgrade.
 - Improved the overall network capabilities by 18% through designing and implementing new connectivity network configurations.
 - Spearheaded hardware and software upgrade rollouts.
 **Key achievement:** Wrote scripts to automate scheduled system patching. Saved 4 hours a week.
  
-**IT Support Specialist**
-Zero Web, Newark, NJ
-Dec 2015–Dec 2017
+**IT Support Specialist**  
+Zero Web, Newark, NJ  
+Dec 2015–Dec 2017  
 - Provided Help Desk-based IT phone support to end-users for a fast-paced web hosting firm, including troubleshooting, server support, and customer service.
 - Maintained 15% above average customer satisfaction in post-call surveys. Used deep compassion and listening skills for the best customer experience.
 - Became a trusted resource through high-level problem-solving skills. Solved customer issues with 12% more success than the company average.
 - Kept 250 employees up and running on Windows 10.
  
-**Junior Desktop Support Engineer**
-Calumcoro Medical, Queens, NY
-Jan 2014–Dec 2015
+**Junior Desktop Support Engineer**  
+Calumcoro Medical, Queens, NY  
+Jan 2014–Dec 2015  
 - Handled all desktop support issues in a high-volume manufacturing firm.
 - Handled trouble tickets 25% faster than other desktop support engineers.
 - Commended by management for exemplary troubleshooting skills.
  
 ## Education
  
-BSc, Computer Science
-The State University of New York, Queens, NY
+BSc, Computer Science  
+The State University of New York, Queens, NY  
 2014
 
 ## Key Skills
