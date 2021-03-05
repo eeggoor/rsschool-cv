@@ -41,3 +41,13 @@ Jan 2014–Dec 2015
 BSc, Computer Science
 The State University of New York, Queens, NY
 2014
+
+## Key Skills
+ 
+- System Administration
+- Network Configuration
+- Software Installation
+- Troubleshooting
+- Windows Environment
+- Customer Service
+- Technical Support
